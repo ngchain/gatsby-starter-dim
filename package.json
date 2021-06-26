@@ -1,0 +1,24 @@
+{
+  "name": "gatsby-starter-dim",
+  "description": "Gatsby Starter - Dim",
+  "version": "0.0.1",
+  "author": "Hunter Chang, Command M",
+  "dependencies": {
+    "gatsby": "^3.7.2",
+    "gatsby-plugin-manifest": "^3.7.1",
+    "gatsby-plugin-react-helmet": "^4.7.1",
+    "gatsby-plugin-sass": "^4.7.1"
+  },
+  "keywords": [
+    "gatsby"
+  ],
+  "license": "MIT",
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "format": "prettier --write '**/*.js'"
+  },
+  "devDependencies": {
+    "prettier": "^1.19.1"
+  }
+}
